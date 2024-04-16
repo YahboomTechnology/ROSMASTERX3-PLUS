@@ -1,3 +1,0 @@
-VM File for RPi/Jetson Xavier NX: https://drive.google.com/drive/folders/1udeth5ZCF5BNPYT157ejVh-eMRpaFaOQ?usp=share_link
-
-VM File for OrinNANO_OrinNX: https://drive.google.com/drive/folders/1oIwY0YnLmXKyqtia-FsZUmx4oTat6RS2?usp=share_link
