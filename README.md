@@ -1,10 +1,10 @@
-# ROSMASTER X3 PLUS ROS Robot Python Programming for Jetson NANO 4GB/Orin NANO/Orin NX/RaspberryPi 5
+# ROSMASTER X3 PLUS ROS Robot Python Programming for Jetson NANO 4GB/Orin NANO SUPER/Orin NX SUPER/RaspberryPi 5
 ![](https://github.com/YahboomTechnology/ROSMASTERX3-PLUS/blob/main/Yahboom_ROSMASTERX3_PLUS.jpg)
 # Introduction
-ROSMASTER X3 PLUS is an omnidirectional movement robot developed based on the ROS robot operating system. It supports four contollers: Jetson NANO 4GB/ORIN NX/ORIN NANO and Raspberry Pi 5. It is equipped with high-performance hardware configurations such as lidar, depth camera, 6DOF robotic arm, 520 high-power motor, voice recognition interactive module, and HD 7-inch display screen. It can realize applications such as APP mapping and navigation, automatic driving, human feature recognition, moveIt robotic arm simulation control and multi-machine synchronous control. It supports mobile phones, handles, computer keyboards remote control. 124 video tutorials with Chinese and English subtitles and codes are provided for free.
+ROSMASTER X3 PLUS is an omnidirectional movement robot developed based on the ROS robot operating system. It supports four contollers: Jetson NANO 4GB/ORIN NX SUPER/ORIN NANO SUPER and Raspberry Pi 5. It is equipped with high-performance hardware configurations such as lidar, depth camera, 6DOF robotic arm, 520 high-power motor, voice recognition interactive module, and HD 7-inch display screen. It can realize applications such as APP mapping and navigation, automatic driving, human feature recognition, moveIt robotic arm simulation control and multi-machine synchronous control. It supports mobile phones, handles, computer keyboards remote control. 124 video tutorials with Chinese and English subtitles and codes are provided for free.
 # Features
 * Reasonable design, unique shape
-1) X3PLUS supports four development boards: Jetson NANO 4GB/ORIN NX/ORIN NANO/RaspberryPi 5, suitable for different users.
+1) X3PLUS supports four development boards: Jetson NANO 4GB/ORIN NX SUPER/ORIN NANO SUPER/RaspberryPi 5, suitable for different users.
 2) The whole robot is made of green aluminum alloy material, which is safe and non-toxic, beautiful and durable.
 3) Mecanum wheel and pendulum suspension chassis can make the robot adapt to uneven ground.
 
